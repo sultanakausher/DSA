@@ -2,14 +2,12 @@
  * Data-Structures-In-Java
  * SimpleStackFromList.java
  */
-package com.deepak.data.structures.Stack;
 
 import java.util.LinkedList;
 
 /**
  * Class implementing simple stack based on the list
- * 
- * @author Deepak
+
  */
 public class SimpleStackFromList {
 
