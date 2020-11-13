@@ -2,7 +2,6 @@
  * Data-Structures-In-Java
  * StackBasedQueue.java
  */
-package com.deepak.data.structures.Queue;
 
 import java.util.Arrays;
 import java.util.NoSuchElementException;
@@ -10,8 +9,7 @@ import java.util.Stack;
 
 /**
  * Implement a queue based on the stack 
- * 
- * @author Deepak
+ *
  *
  * @param <T>
  */
