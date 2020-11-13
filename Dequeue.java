@@ -2,7 +2,6 @@
  * Data-Structures-In-Java
  * Dequeue.java
  */
-package com.deepak.data.structures.PriorityQueue;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;
@@ -18,8 +17,6 @@ import java.util.NoSuchElementException;
  * 1. Null pointer exception when null item is inserted 
  * 2. No such element exception when remove is performed on empty queue
  * 3. UnSupported operation exception when iterator's remove method is invoked
- * 
- * @author Deepak
  */
 public class Dequeue<Item> implements Iterable<Item> {
 
