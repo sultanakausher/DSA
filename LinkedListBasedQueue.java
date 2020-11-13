@@ -2,14 +2,12 @@
  * Data-Structures-In-Java
  * LinkedListBasedQueue.java
  */
-package com.deepak.data.structures.Queue;
 
 import java.util.NoSuchElementException;
 
 /**
  * Linked List based implementation of queue
  * 
- * @author Deepak
  */
 public class LinkedListBasedQueue {
 
