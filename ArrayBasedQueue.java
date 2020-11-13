@@ -2,14 +2,11 @@
  * Data-Structures-In-Java
  * ArrayBasedQueue.java
  */
-package com.deepak.data.structures.Queue;
 
 import java.util.NoSuchElementException;
 
 /**
  * Implementation of array based queue
- * 
- * @author Deepak
  */
 public class ArrayBasedQueue {
 
