@@ -2,10 +2,15 @@
 
 TYPES OF DS->
 
+
 1. Linear
+
       Index Based
+      
           Arrays
+          
       Non Index Based
+      
           List
           Queue
           Stack
@@ -20,6 +25,7 @@ TYPES OF DS->
               Red Black Tree
               AVL Tree
               Splay Tree
+              
          Non Balanced
               Binary Tree
               Binary Search Tree
