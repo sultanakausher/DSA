@@ -2,15 +2,11 @@
  * Data-Structures-In-Java
  * QueueBasedStack.java
  */
-package com.deepak.data.structures.Stack;
 
 import java.util.LinkedList;
 
 /**
  * Queue based stack implementation
- * 
- * @author Deepak
- *
  * @param <T>
  */
 public class QueueBasedStack<T> {
