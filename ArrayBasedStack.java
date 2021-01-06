@@ -2,14 +2,12 @@
  * Data-Structures-In-Java
  * ArrayBasedStack.java
  */
-package com.deepak.data.structures.Stack;
 
 import java.util.NoSuchElementException;
 
 /**
  * Array based implementation of stack
  * 
- * @author Deepak
  */
 public class ArrayBasedStack {
 
