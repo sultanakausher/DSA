@@ -1,4 +1,4 @@
-package com.deepak.data.structures.Tree;
+package com.sultana.data.structures.Tree;
 
 /**
  * An AVL tree is another self-balanced binary search tree. 
@@ -8,7 +8,6 @@ package com.deepak.data.structures.Tree;
  * The heights of two child subtree (left subtree and 
  * right subtree) of any node differ by at most one
  * 
- * @author Deepak
  */
 public class AVLTree {
 
