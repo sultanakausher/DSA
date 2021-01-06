@@ -2,14 +2,12 @@
  * Data-Structures-In-Java
  * LinkedListBasedStack.java
  */
-package com.deepak.data.structures.Stack;
 
 import java.util.NoSuchElementException;
 
 /**
  * Linked List based implementation of stack
  * 
- * @author Deepak
  */
 public class LinkedListBasedStack {
 
