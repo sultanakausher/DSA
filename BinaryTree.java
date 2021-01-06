@@ -2,7 +2,6 @@
  * Data-Structures-in-Java
  * BinaryTree.java
  */
-package com.deepak.data.structures.Tree;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -10,7 +9,6 @@ import java.util.Queue;
 /**
  * Binary Tree implementation
  * 
- * @author Deepak
  *
  * @param <E>
  */
