@@ -2,7 +2,6 @@
  * Data-Structures-in-Java
  * BinaryTree.java
  */
-package com.deepak.data.structures.Tree;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -12,7 +11,6 @@ import java.util.Queue;
  * Left node contains value <= root and right node contains
  * value > root
  * 
- * @author Deepak
  */
 public class BinarySearchTree<E extends Comparable<E>> {
 
